@@ -1,0 +1,2 @@
+# zruct
+a local platform
